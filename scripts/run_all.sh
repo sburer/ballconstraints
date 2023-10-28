@@ -1,0 +1,10 @@
+python search_instances.py
+python run_instances.py
+python run_larger_maxnorm_instances.py
+python run_ttrs_instances_from_literature.py
+python run_unsolved_instances_from_eltved_burer.py
+python example_1.py
+
+Rscript run_instances.R
+Rscript run_larger_maxnorm_instances.R
+Rscript run_ttrs_instances_from_literature.R
